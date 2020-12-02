@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Accessibility</string>
+
+    <string name="description">Para seguir é necessário preencher as informações abaixo</string>
+    <string name="description_content_description">Para seguir é necessário preencher as informações de nome de usuário e senha abaixo</string>
+
+    <string name="logo_android">Logotipo Android</string>
+
+    <string name="username">Nome de usuário</string>
+    <string name="password">Senha</string>
+    <string name="enter">Entrar</string>
+    <string name="loading">Carregando</string>
+</resources>
